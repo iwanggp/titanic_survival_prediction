@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # titanic survival prediction
 利用神经网络的MLP(多层感知机)来预测Titanic上乘客的生存概率，MLP是多层神经元这里通过多层神经元来预测。
 ## 数据预处理
@@ -294,3 +293,6 @@ survived	name	pclass	sex	age	sibsp	parch	fare	embarked	probability
 =======
 # titanic_survival_prediction
 >>>>>>> 0ffca7c2d57ac0224565fbe9a1bf585ddd2a7f9e
+=======
+
+>>>>>>> cd3952819a0270a075997198ecdb2d831e93df68
