@@ -290,9 +290,3 @@ survived	name	pclass	sex	age	sibsp	parch	fare	embarked	probability
 98	1	Douglas, Mrs. Walter Donald (Mahala Dutton)	1	female	48.0	1	0	106.4250	C	1
 99	1	Duff Gordon, Lady. (Lucille Christiana Sutherl...	1	female	48.0	1	0	39.6000	C	1
 ```
-=======
-# titanic_survival_prediction
->>>>>>> 0ffca7c2d57ac0224565fbe9a1bf585ddd2a7f9e
-=======
-
->>>>>>> cd3952819a0270a075997198ecdb2d831e93df68
