@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # titanic survival prediction
 利用神经网络的MLP(多层感知机)来预测Titanic上乘客的生存概率，MLP是多层神经元这里通过多层神经元来预测。
 ## 数据预处理
@@ -290,3 +291,6 @@ survived	name	pclass	sex	age	sibsp	parch	fare	embarked	probability
 98	1	Douglas, Mrs. Walter Donald (Mahala Dutton)	1	female	48.0	1	0	106.4250	C	1
 99	1	Duff Gordon, Lady. (Lucille Christiana Sutherl...	1	female	48.0	1	0	39.6000	C	1
 ```
+=======
+# titanic_survival_prediction
+>>>>>>> 0ffca7c2d57ac0224565fbe9a1bf585ddd2a7f9e
