@@ -1,3 +1,4 @@
+# 使用MLP（多层感知机）来预测Titani乘客的生存概率，使用Keras框架
 # titanic survival prediction
 利用神经网络的MLP(多层感知机)来预测Titanic上乘客的生存概率，MLP是多层神经元这里通过多层神经元来预测。
 ## 数据预处理
